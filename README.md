@@ -1,5 +1,5 @@
 # unit test with Jest 
-_This is a project taken from the "JavaScript Testing with Jest Course" taught at Platzi, in which, hoping it helps, I reflect what I learned.
+_This is a project taken from the "JavaScript Testing with Jest Course" taught at Platzi, in which, hoping it helps, I reflect what I learned._
 
 ## Steps
 
