@@ -1,2 +1,2 @@
 # unit-test-example
-Example of unit test with mocha
+Example of unit test with jest
